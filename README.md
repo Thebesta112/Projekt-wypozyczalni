@@ -7,7 +7,7 @@
                                                   
    LISTA ROZWIJANA                LISTA ROZWIJANA             Menu 
    - lista dostępnych          - lista dostepnych              - opcje zamowień
-    samochodów sportowych    samosamochodów osobowych
+    samochodów sportowych    samosamochodów osobowych          - 
    
                               
                               zdjęcia samochodów wraz z krótkim opisem 
